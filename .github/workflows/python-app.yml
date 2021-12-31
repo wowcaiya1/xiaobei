@@ -12,7 +12,7 @@ on:
   schedule:
     # - cron: "30 0 * * *"
     # 每天九点
-    - cron: "0 8 * * *"
+    - cron: "0 1 * * *"
 
 # 工作任务
 jobs:
